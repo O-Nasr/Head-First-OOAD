@@ -1,0 +1,6 @@
+﻿1- Convert InsturmetSpec from abstract to concrete class
+2- Update search() function Inventory class
+3- Convert Insturmet from abstract to concrete class
+4- Replace all Instrument subclasses with InstrumentType enum
+4- Replace all InstrumentSpec subclasses with Map class
+5- We get rid of Guitar and Mandolin Subclasses
