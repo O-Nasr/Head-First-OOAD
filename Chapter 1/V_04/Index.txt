@@ -1,0 +1,2 @@
+﻿Add new number (numStrings) in (GitarSpec) class.
+Use delegate concept; move serch fungtion from Invertory to GuitarSpec.

@@ -1,0 +1,2 @@
+﻿Encapsulate vary numbers => GuitarSpec
+Return list of matches guitars in search function
